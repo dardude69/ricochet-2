@@ -1,0 +1,17 @@
+# 3d models
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+
+# images
+*.png filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.xcf filter=lfs diff=lfs merge=lfs -text
+
+# fonts
+*.ttf filter=lfs diff=lfs merge=lfs -text
+
+# documentation, etc.
+*.pdf filter=lfs diff=lfs merge=lfs -text
+
+# shared libraries
+*.dll filter=lfs diff=lfs merge=lfs -text
